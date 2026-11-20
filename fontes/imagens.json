@@ -1,0 +1,42 @@
+[
+  {
+    "file": "guia/assets/fig1-overview.png",
+    "source": "https://www.dream-rsi.com/assets/fig1-overview.png",
+    "credit": "Zheng et al., Dream-RSI (2026)",
+    "downloaded": "2026-09-19",
+    "sha256": "8dd11e4c86c01c57ed7cb99f897e973d4a8a26f4fc0d509d085963462d945ce3",
+    "alt_original": "Overview of Dream-RSI: online exploration produces a discovery tree, the tree becomes a replay simulator, and dreaming inside the simulator pool improves the exploration policy, which is redeployed online."
+  },
+  {
+    "file": "guia/assets/fig2-simulator.png",
+    "source": "https://www.dream-rsi.com/assets/fig2-simulator.png",
+    "credit": "Zheng et al., Dream-RSI (2026)",
+    "downloaded": "2026-09-19",
+    "sha256": "9353499d8c0d154b591b0d39a1e49925c8bfba9c94dce592a2bb7d3d3024cf59",
+    "alt_original": "A deployed policy explores online to generate a discovery tree; alternative policies then replay that tree along different trajectories to obtain scores without any execution."
+  },
+  {
+    "file": "guia/assets/fig3-lasso-dynamics.png",
+    "source": "https://www.dream-rsi.com/assets/fig3-lasso-dynamics.png",
+    "credit": "Zheng et al., Dream-RSI (2026)",
+    "downloaded": "2026-09-19",
+    "sha256": "cb7bdb6946f7caf935046df5763a5eaa821fafcce1b093e5f8843ef6c034ab97",
+    "alt_original": "Average held-out runtime versus cumulative discovery compute across recursive rounds, for Gemini-3.1-Pro and Gemini-3.7-Flash. Dream-RSI reaches lower runtime at lower cumulative compute."
+  },
+  {
+    "file": "guia/assets/fig4-kernels.png",
+    "source": "https://www.dream-rsi.com/assets/fig4-kernels.png",
+    "credit": "Zheng et al., Dream-RSI (2026)",
+    "downloaded": "2026-09-19",
+    "sha256": "b803d1036feadf80cb9ea63b702a492f652723057ed88aa4aa0a90c18043e80e",
+    "alt_original": "Discovery trajectories on VGG16, LayerNorm, ConvDiv and ConvMax. Dream-RSI reaches comparable performance with fewer generations on the first two, and higher performance at comparable budget on the last two."
+  },
+  {
+    "file": "guia/assets/fig6-evolution.png",
+    "source": "https://www.dream-rsi.com/assets/fig6-evolution.png",
+    "credit": "Zheng et al., Dream-RSI (2026)",
+    "downloaded": "2026-09-19",
+    "sha256": "f60fb6b88c786574cff21a5865cc9edae0834fdf39c9b62f670107fd090bd24a",
+    "alt_original": "Round-best performance rising from 0.427 to 1.898 across nine rounds, alongside evaluated attempts per round falling from 110 to 50 and rising again to around 90."
+  }
+]
