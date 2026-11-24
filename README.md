@@ -1,4 +1,4 @@
-﻿# Dream-RSI â€” Aprender a descobrir
+# Dream-RSI â€” Aprender a descobrir
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,9 +8,9 @@
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
-Projeto educativo independente INEMA sobre como histÃ³ricos de experimentos podem orientar melhores estratÃ©gias de pesquisa em IA.
+Projeto educativo independente ARCKHÉ sobre como histÃ³ricos de experimentos podem orientar melhores estratÃ©gias de pesquisa em IA.
 
-**[Abrir landing + guia](https://inematds.github.io/google-rsi/guia/)** Â· [Plano educativo](docs/PLANO-EDUCATIVO.md) Â· [AnÃ¡lise das fontes](docs/ANALISE.md)
+**[Abrir landing + guia](https://linnoff88-dev.github.io/ Â· [Plano educativo](docs/PLANO-EDUCATIVO.md) Â· [AnÃ¡lise das fontes](docs/ANALISE.md)
 
 ## O que existe
 

@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-**[Open the landing page and guide](https://inematds.github.io/google-rsi/guia/en/)** · [Learning plan (in Portuguese)](docs/PLANO-EDUCATIVO.md) · [Source analysis (in Portuguese)](docs/ANALISE.md)
+**[Open the landing page and guide](https://linnoff88-dev.github.io/ · [Learning plan (in Portuguese)](docs/PLANO-EDUCATIVO.md) · [Source analysis (in Portuguese)](docs/ANALISE.md)
 
 ## What’s included
 

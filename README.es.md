@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-**[Abrir la página y la guía](https://inematds.github.io/google-rsi/guia/es/)** · [Plan educativo (en portugués)](docs/PLANO-EDUCATIVO.md) · [Análisis de fuentes (en portugués)](docs/ANALISE.md)
+**[Abrir la página y la guía](https://linnoff88-dev.github.io/ · [Plan educativo (en portugués)](docs/PLANO-EDUCATIVO.md) · [Análisis de fuentes (en portugués)](docs/ANALISE.md)
 
 ## Qué incluye
 

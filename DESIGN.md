@@ -1,8 +1,8 @@
 # Design — Dream-RSI
 
-Modo: Read com entrada de landing. Identidade INEMA herdada de projetos-landing-guia, sem substituição de linguagem visual.
+Modo: Read com entrada de landing. Identidade ARCKHÉ herdada de projetos-landing-guia, sem substituição de linguagem visual.
 
-Base CSS copiada do template. Sora em títulos, Inter em texto, âmbar para ações e sky exclusivamente no vínculo INEMA.CLUB. Tema escuro com alternância clara persistente. Figuras originais em fundo branco, proporcionais e acessíveis em resolução completa.
+Base CSS copiada do template. Sora em títulos, Inter em texto, âmbar para ações e sky exclusivamente no vínculo ARCKHÉ AI. Tema escuro com alternância clara persistente. Figuras originais em fundo branco, proporcionais e acessíveis em resolução completa.
 
 Percurso: tese + figura do ciclo → explicação → figuras → tabela e comparação → limites → AlphaEvolve → atividade → plano → fontes. Não usar números sem a métrica e o comparador.
 

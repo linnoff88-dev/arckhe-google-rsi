@@ -1,6 +1,6 @@
 # Dream-RSI — plano do projeto educativo
 
-Versão 1.0.0 · 19/09/2026 · Projeto `google-rsi` · INEMA
+Versão 1.0.0 · 19/09/2026 · Projeto `google-rsi` · ARCKHÉ
 
 ## Proposta
 
@@ -97,6 +97,6 @@ Rubrica de 0 a 2 pontos em cinco critérios: definição do problema; comparaç�
 
 ## Publicação e manutenção
 
-Repo `inematds/google-rsi`; guia em `guia/index.html`; imagens locais em `guia/assets`; documentação em `docs`. GitHub Pages da raiz, URL `/google-rsi/guia/`. Portal: categoria **projeto com guia**, não curso concluído. Derivados de busca e PRO regenerados dos catálogos, sem edição manual.
+Repo `linnoff88-dev/google-rsi`; guia em `guia/index.html`; imagens locais em `guia/assets`; documentação em `docs`. GitHub Pages da raiz, URL `/google-rsi/guia/`. Portal: categoria **projeto com guia**, não curso concluído. Derivados de busca e PRO regenerados dos catálogos, sem edição manual.
 
 A cada revisão: registrar data, fontes alteradas e afirmações afetadas em CHANGELOG; atualizar todos os marcadores de versão juntos. A versão atual é 1.0.0.
