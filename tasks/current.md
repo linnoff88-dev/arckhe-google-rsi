@@ -1,5 +1,5 @@
 # Tarefa atual
 
-Concluída: análise de fontes, plano educativo, landing+guia, figuras originais, validação e publicação em Pages, portal, buscas e PRO.
+Concluída: análise de fontes, plano educativo, landing+guia, figuras originais, validaçêo e publicaçêo em Pages, portal, buscas e PRO.
 
-Expansão opcional descrita no plano: encontros, laboratório de replay e piloto. Não executar sem nova solicitação. Se houver curso HTML, perguntar formato v5 ou v2.
+Expansêo opcional descrita no plano: encontros, laboratório de replay e piloto. Nêo executar sem nova solicitaçêo. Se houver curso HTML, perguntar formato v5 ou v2.
